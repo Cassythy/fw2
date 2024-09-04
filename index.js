@@ -1,3 +1,3 @@
 function Hello() {
-    return <div> Ola </div>
+    return <div>Ola</div>
 }
